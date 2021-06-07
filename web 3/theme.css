@@ -12,6 +12,7 @@ div.a{
 	border: 8px solid black;
 	margin-bottom: 50;
 	box-shadow: 15px 15px 20px black;
+	border-radius: 35px
 }
 
 div.b{
@@ -71,7 +72,7 @@ img.solo{
 	float: bottom;
 	margin-left: 190px;
 	border: 5px solid black;
-	border-radius: 10px
+	border-radius: 50px
 }
 
 img.together{
